@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djunnni)](https://solved.ac/djunnni/)
+
 ![Djunnni's github stats](https://github-readme-stats.vercel.app/api?username=djunnni)
 
 **Languages and Tools:**  
