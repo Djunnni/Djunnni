@@ -2,7 +2,7 @@
 
 I am a developer who is interested in <b>Spring and React</b>
 
-Sometimes i <b>contribute open source project</b> that many people use like (facebook, node.js and so on)</br>
+Sometimes i <b>contribute open source project</b> that many people use like</br>
 it's a good chance that practice code convention and develop communication skills
 
 if you're hesitating, Let's talk 😄
